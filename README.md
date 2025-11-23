@@ -37,4 +37,8 @@ ros2 launch xarm_description xarm7_rviz_display.launch.py
 ### Terminal 2 - Launch this package's control node
 ros2 launch custom_joint_control eff_control.launch.py
 
+---
+## Demo Video
+[launch.webm](https://github.com/user-attachments/assets/39e6810c-dc65-4e13-bcba-f3adad33bce7)
+
 
